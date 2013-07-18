@@ -1,0 +1,36 @@
+﻿body
+	{
+		background-image: url(../images/back.png);
+		background-repeat: repeat-x;
+		padding:0px;
+		margin:0;
+	}
+#main
+	{
+		background: RGBA(0,0,0,0.7);
+		border-radius: 5px;
+		height: 500px;
+		width: 600px;
+		margin: 0 auto;
+		padding:0;
+		
+	}
+h1, p
+	{
+		padding-left: 30%;
+	}
+h1
+	{
+		
+		color: red;
+		font-style: italic;
+	}
+p
+	{
+		color: green;
+		padding-bottom: 20px;
+	}
+a
+	{
+		color:#fc00ff;
+	}
